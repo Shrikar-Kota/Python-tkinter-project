@@ -5,5 +5,5 @@ We tried to make an offline shopping cart using python's <b>tkinter</b> UI modul
 
 ## Technologies used:
 <ul>
-  <li>Python<li>
+  <li>Python</li>
 </ul>
